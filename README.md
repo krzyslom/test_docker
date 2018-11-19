@@ -1,0 +1,1 @@
+Test ShinyProxy with NGINX
